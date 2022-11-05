@@ -1,5 +1,14 @@
 # AngularBlog
 
+Projeto sobre uma aplicação de blog funcional, construindo componentes inteligentes e aprendendo a como organizar o projeto Angular utilizando as ferramentas que o próprio framework oferece. 
+Curso da plataforma DIO, do Módulo de Angular.
+### Ferramentas usadas:
+
+* Angular
+* HTML
+* CSS
+* TypeScript
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
