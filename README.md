@@ -1,6 +1,6 @@
 # AngularBlog
 
-Projeto sobre uma aplicação de blog funcional, construindo componentes inteligentes e aprendendo a como organizar o projeto Angular utilizando as ferramentas que o próprio framework oferece. 
+Projeto sobre uma aplicação de blog funcional, construindo componentes inteligentes e aprendendo a como organizar o projeto Angular utilizando as ferramentas que o próprio framework oferece.<br/>
 Curso da plataforma DIO, do Módulo de Angular.
 ### Ferramentas usadas:
 
